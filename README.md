@@ -1,7 +1,7 @@
 Hi There !
 My name is Imam Mashur.
-<br>I am a Low-Level Programmer, AI Enthusiast.
+<br>I am a 'Low-Level Programmer' from Indonesia.
 
-Feel free to enjoy the GitHub. I don't have anything good in here, so use search form to find something great.
+Currently learning microcontrollers, firmware developments, computer architectures, and everything that connected to Low-Level Programmer.
 
 Thank you.
