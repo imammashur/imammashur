@@ -2,9 +2,9 @@ Hi There !
 My name is Imam Mashur.
 <br>I am a `Low-Level Programmer` from Indonesia.
 
-Currently developing my skills in
-`C and C++` For firmware development
-`Python`
-`HTML, CSS, and PHP` For interface design
+Currently developing my skills in : <br>
+`C and C++` For <b>firmware development</b><br>
+`Python`<br>
+`HTML, CSS, and PHP` For <b>interface design</b>
 
 Thank you.
